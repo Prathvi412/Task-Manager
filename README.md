@@ -1,6 +1,6 @@
 # React Native Task Management App
 
-![App Screenshot](assets/screenshot1.png)
+![App Screenshot](todoList/assets/screenshot1.png)
 
 This is my first React Native project, a simple task management application that allows users to add, view, and delete tasks. The app is built using React Native with Expo, and it demonstrates basic state management, component structuring, and user input handling.
 
@@ -10,7 +10,7 @@ This is my first React Native project, a simple task management application that
 - **View Tasks**: The tasks are displayed in a scrollable list under the "Today's Tasks" section.
 - **Delete Tasks**: Users can delete tasks by clicking on them, removing them from the list.
 
-![Task List Screenshot](assets/screenshot2.png)
+![Task List Screenshot](todoList/assets/screenshot2.png)
 
 ## Code Overview
 
@@ -31,7 +31,6 @@ This is my first React Native project, a simple task management application that
 3. **Deleting a Task**:
    - Tapping on a task removes it from the list.
 
-![Add Task Screenshot](assets/screenshot3.png)
 
 ## How to Run the App
 
