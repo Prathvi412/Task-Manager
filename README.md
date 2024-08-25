@@ -1,4 +1,4 @@
-React Native Task Management App
+#React Native Task Management App
 This is my first React Native project, a simple task management application that allows users to add, view, and delete tasks. The app is built using React Native with Expo, and it demonstrates basic state management, component structuring, and user input handling.
 
 Features
